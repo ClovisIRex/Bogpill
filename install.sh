@@ -1,5 +1,6 @@
 #! /bin/bash
 
+cd ~
 curl https://raw.githubusercontent.com/ClovisIRex/Bogpill/master/bogpill.sh -O
 chmod +x ./bogpill.sh
 mkdir -p ~/tmp/bogpill
