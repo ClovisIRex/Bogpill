@@ -1,4 +1,4 @@
-# Instant Bogpill from you terminal.
+# Instant Bogpill from your terminal.
 
 When you need the quick rundown in an instant but too lazy to google it yourself.
 Spread the Bogpill like wildfire and watch the Rothschild plan fall apart!
@@ -11,7 +11,7 @@ After restaring the shell you will able to get the rundown with the `bog` comman
 for a different shell, zsh for example you can run:
 `curl -s https://raw.githubusercontent.com/ClovisIRex/Bogpill/master/install.sh | bash -s ~/.zshrc`
 
-Take the bogpill.
+Take the Bogpill.
 
 # Note
-The bogpill is obviously a POSIX shell script. If you use Windows you are basically a Rothschild puppet and do not deserve to take it.
+The Bogpill is obviously a POSIX shell script. If you use Windows you are basically a Rothschild puppet and do not deserve to take it.
