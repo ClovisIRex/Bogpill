@@ -1,6 +1,8 @@
-# When you need the quick rundown in in instant but too lazy to google it yourself.
+# Instant Bogpill from you terminal.
 
+When you need the quick rundown in an instant but too lazy to google it yourself.
 Spread the Bogpill like wildfire and watch the Rothschild plan fall apart!
+Ideas for usage: spread it to your friends and family, flood their files with the rundown, greet their login with it... Bogdangrad is the limit.
 
 ## Installation:
 `curl -s https://raw.githubusercontent.com/ClovisIRex/Bogpill/master/install.sh | bash`
