@@ -7,17 +7,17 @@ Ideas for usage: spread it to your friends and family, flood their files with th
 
 # Installation:
 
-```sh
+`
 curl -s https://raw.githubusercontent.com/ClovisIRex/Bogpill/master/install.sh | bash
-```
+`
 
 After restaring the shell you will able to get the rundown with the `bog` command (defaults to bash).
 
 for a different shell, zsh for example you can run:
 
-```sh
+`
 curl -s https://raw.githubusercontent.com/ClovisIRex/Bogpill/master/install.sh | bash -s ~/.zshrc
-```
+`
 
 Take the Bogpill.
 
